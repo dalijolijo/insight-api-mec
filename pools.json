@@ -1,16 +1,16 @@
 [
   {
-    "poolName": "Someone using equihash-solomining!",
-    "url": "https://github.com/aayanl/equihash-solomining",
+    "poolName": "Pool-1",
+    "url": "https://www.pool-1.com",
     "searchStrings": [
-      "EquihashSolominer!-github.com/aayanl/equihash-solomining"
+      "yiimp"
     ]
   },
   {
-    "poolName": "equipool.1ds.us",
-    "url": "https://equipool.1ds.us/getting_started",
+    "poolName": "Pool-2",
+    "url": "https://www.pool-2.com",
     "searchStrings": [
-      "equipool.1ds.us"
+      "zpool"
     ]
   }
 ]
