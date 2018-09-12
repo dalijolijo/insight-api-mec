@@ -12,5 +12,12 @@
     "searchStrings": [
       "zpool"
     ]
+  },
+  {
+    "poolName": "AltHashers",
+    "url": "https://althashers.com/",
+    "searchStrings": [
+      "althashers"
+    ]
   }
 ]
